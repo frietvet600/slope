@@ -3,7 +3,7 @@
     "productName": "Slope",
     "dataUrl": "https://cdn.jsdelivr.net/gh/frietvet600/slope@latest/slope_newdata.unityweb",
     "wasmCodeUrl": "https://cdn.jsdelivr.net/gh/frietvet600/slope@latest/slope_newwasmcode.unityweb",
-    "wasmFrameworkUrl": "https://cdn.jsdelivr.net/gh/frietvet600/slope@latest/slope/slope_newwasmframework.unityweb",
+    "wasmFrameworkUrl": "https://cdn.jsdelivr.net/gh/frietvet600/slope@latest/slope_newwasmframework.unityweb",
     "asmCodeUrl": "slope_newcode.unityweb",
     "asmMemoryUrl": "slope_newmemory.unityweb",
     "asmFrameworkUrl": "slope_newframework.unityweb",

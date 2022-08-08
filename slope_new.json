@@ -1,9 +1,9 @@
 {
     "companyName": "IDnet",
     "productName": "Slope",
-    "dataUrl": "https://goliathgamerblog.cyou/games/webgl/slope/slope_newdata.unityweb",
-    "wasmCodeUrl": "https://goliathgamerblog.cyou/games/webgl/slope/slope_newwasmcode.unityweb",
-    "wasmFrameworkUrl": "https://goliathgamerblog.cyou/games/webgl/slope/slope_newwasmframework.unityweb",
+    "dataUrl": "https://cdn.jsdelivr.net/gh/frietvet600/slope@latest/slope_newdata.unityweb",
+    "wasmCodeUrl": "https://cdn.jsdelivr.net/gh/frietvet600/slope@latest/slope_newwasmcode.unityweb",
+    "wasmFrameworkUrl": "https://cdn.jsdelivr.net/gh/frietvet600/slope@latest/slope/slope_newwasmframework.unityweb",
     "asmCodeUrl": "slope_newcode.unityweb",
     "asmMemoryUrl": "slope_newmemory.unityweb",
     "asmFrameworkUrl": "slope_newframework.unityweb",
